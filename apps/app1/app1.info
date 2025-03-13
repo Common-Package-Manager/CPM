@@ -1,0 +1,13 @@
+{
+    "name": "app1",
+    "version": "1.0.0",
+    "description": "Пример приложения для демонстрации работы пакетного менеджера CPM.",
+    "author": "Имя Автора",
+    "license": "MIT",
+    "dependencies": [],
+    "homepage": "https://example.com/app1",
+    "files": [
+        "app1",
+        
+    ]
+}
